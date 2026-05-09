@@ -1,0 +1,8 @@
+Walmart_Sales_Insights_EDA/
+│
+├── Data/
+│   └── Walmart.csv
+│
+├── EDA/
+├── README.md
+└── requirements.txt
